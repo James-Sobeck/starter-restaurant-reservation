@@ -11,7 +11,7 @@ seat reservations at tables, create tables, and search for previous reservations
 
 ## API
 
-The restaurant reservation API was created using express and knex, and is found in the back-end folder. In order for the server to operate, make sure to 
+The restaurant reservation API was created using express and knex, and is found in the back-end folder. In order for the server to operate, 
 add a .env file into the folder, the file should contain a database URL. 
 
 ### Endpoints
