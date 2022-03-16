@@ -41,7 +41,7 @@ export default function ReservationTable({
 
   return (
     <>
-      <table className="table table-sm table-striped table-bordered">
+      <table className="table table-sm table-striped table-bordered table-responsive-sm">
         <thead>
           <tr>
             <th scope="col">#</th>
